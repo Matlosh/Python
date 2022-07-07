@@ -1,0 +1,45 @@
+/* https://doc.qt.io/qt-6/stylesheet-reference.html */
+
+QMainWindow {
+    background-color: #202124;
+}
+
+QLabel {
+    color: white;
+    font-size: 30px;
+}
+
+    QLabel#result {
+        font-size: 40px;
+        margin: 0;
+        /* max-height: 60px; */
+        /* idk why text-align doesn't work */
+    }
+
+    QLabel#currentNumber {
+        font-size: 20px;
+        /* max-height: 40px; */
+    }
+
+QPushButton {
+    background-color: #0095ff;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+    QPushButton:hover {
+        background-color: #0082DF;
+    }
+
+QWidget#resultsDisplay {
+    max-height: 100px;
+}

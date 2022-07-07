@@ -1,0 +1,3 @@
+APP_WIDTH = 400
+APP_HEIGHT = 600
+SETTINGS_FILE_NAME = 'settings.txt'
