@@ -1,3 +1,6 @@
+# Author: Matlosh, 2022
+# https://github.com/Matlosh
+
 import sys
 from pydub import AudioSegment
 import datetime

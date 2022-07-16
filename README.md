@@ -10,3 +10,4 @@ Since I wanted not to litter my Github with many (and sometimes unfinished) Pyth
 - [Smart TicTacToe](https://github.com/Matlosh/Python/tree/main/Smart%20TicTacToe) - TicTacToe game where CPU can be trained thanks to generating datasets
 - [Video Editor](https://github.com/Matlosh/Python/tree/main/Video%20Editor) - video editor made with PyQt5 which allows to view videos and simply edit them **(unfinished)**
 - [Youtube Downloader](https://github.com/Matlosh/Python/tree/main/Youtube%20Downloader) - application made with PyQt5 which allows to simply download files from YouTube by providing an URL
+- [Music Manager](https://github.com/Matlosh/Python/tree/main/Music%20Manager) - script which allows to simply join, play, copy and modify audio files
