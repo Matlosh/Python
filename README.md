@@ -11,3 +11,4 @@ Since I wanted not to litter my Github with many (and sometimes unfinished) Pyth
 - [Video Editor](https://github.com/Matlosh/Python/tree/main/Video%20Editor) - video editor made with PyQt5 which allows to view videos and simply edit them **(unfinished)**
 - [Youtube Downloader](https://github.com/Matlosh/Python/tree/main/Youtube%20Downloader) - application made with PyQt5 which allows to simply download files from YouTube by providing an URL **(finished)**
 - [Music Manager](https://github.com/Matlosh/Python/tree/main/Music%20Manager) - script which allows to simply join, play, copy and modify audio files **(finished, expandable)**
+- [Scripts Caller](https://github.com/Matlosh/Scripts-Caller) - application made in PySide6 which allows to execute and schedule commands **(stable, expandable, in an individual repository)**
