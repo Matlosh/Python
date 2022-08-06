@@ -12,7 +12,7 @@ py main.py
 
 ## Short guide
 ### Menu
-Menu contains four elements:
+Menu contains the four elements:
 - "Guess The Country" - starts the game
 - "Statistics" - shows the statistics
 - "Settings" - allows to edit few settings
@@ -32,12 +32,12 @@ As the name suggests, it shows the statistics of the guessed and not guessed cou
 
 ### Settings
 It allows to change six default settings:
-- "with_additional_info" - changes whether additional info about guessed country should be shown (such as capital, area etc.)
-- "region_to_guess" - changes region from which guessed countries will be taken
+- "with_additional_info" - changes whether additional info about the guessed country should be shown (such as capital, area etc.)
+- "region_to_guess" - changes region from which the guessed countries will be taken
 - "lives_per_game" - changes number of lives (mistakes player can make) per every game
-- "countries_data_path" - as the name suggests, it's the path to the countries data (data used to drawn countries and their data)
-- "statistics_save_path" - save path for the statistics data (path and file will be created if they don't exist)
-- "settings_save_path" - save path to copy the current settings (note that the only one accepted settings file path will be "settings.json")
+- "countries_data_path" - as the name suggests, it changes the path to the countries data (data used to draw countries and their data)
+- "statistics_save_path" - changes save path for the statistics data (path and file will be created if they don't exist)
+- "settings_save_path" - changes save path to copy the current settings (note that the only one accepted settings file path will be "settings.json")
 
 ![Settings screenshot](images/settings.png)
 
