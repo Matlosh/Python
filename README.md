@@ -13,3 +13,4 @@ Since I wanted not to litter my Github with many (and sometimes unfinished) Pyth
 - [Music Manager](https://github.com/Matlosh/Python/tree/main/Music%20Manager) - script which allows to simply join, play, copy and modify audio files **(finished, expandable)**
 - [Scripts Caller](https://github.com/Matlosh/Scripts-Caller) - application made in PySide6 which allows to execute and schedule commands **(stable, expandable, in an individual repository)**
 - [Guess The Country](https://github.com/Matlosh/Python/tree/main/Guess%20The%20Country) - simple console hangman alike game in which player has to guess the country **(finished)**
+- [Space Invaders Game](https://github.com/Matlosh/Space-Invaders-Game) - 2D "space shooter" like game made with pygame library **(finished, in an individual repository)**
